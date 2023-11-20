@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zerenliandemo" />
+        <module name="bug-free-rotary-phone" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
